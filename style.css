@@ -491,6 +491,9 @@ main {
   .recomend-g.recomend-g--active {
     transform: translateX(0%);
   }
+  .banner__btn {
+    bottom: 8%;
+  }
 }
 
 /* height */
